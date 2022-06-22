@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LoopsIndef
-- 👀 I’m interested in ... learning mode about programming
+- 👀 I’m interested in ... learning more about programming
 - 🌱 I’m currently learning ... C#, C++, Python, Assembler
 - 💞️ I’m looking to collaborate on ... Not much at the moment until I become a bit more confident.
 - 📫 How to reach me ... dev/null
